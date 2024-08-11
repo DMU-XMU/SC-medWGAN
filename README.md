@@ -1,5 +1,5 @@
 论文：基于顺序耦合对抗学习的脓毒症序列生成方法
-#Dependencies:
+# Dependencies:
  	numpy, 	        panda, 	        sklearn
  	matplotlib, 	itertools, 	random
  	yaml, 		seaborn, 	os
